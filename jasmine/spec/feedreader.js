@@ -62,15 +62,13 @@ $(function() {
     /* Ensure that when the loadFeed function is called and completes its work,
     * there is at least a single .entry element within the .feed container.
     */
-    var entryList;
-
     beforeEach(function(done) {
       loadFeed(0, done);
     });
 
     it('has at least one entry', function(done) {
-      var entryList = $('.feed .entry');
-      expect(entryList.length).toBeGreaterThan(0);
+      var listLength = $('.feed .entry').length;
+      expect(listLength).toBeGreaterThan(0);
       done();
     });
   });

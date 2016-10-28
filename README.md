@@ -8,8 +8,6 @@ Go to: https://ksan8.github.io/feed-reader-testing/
 
 # Project Requirements
 
-Review the Feed Reader Testing [Project Rubric](https://review.udacity.com/#!/projects/3442558598/rubric)
-
 Original [Project assets](http://github.com/udacity/frontend-nanodegree-feedreader).
 
 * Write a test that loops through each feed in the `allFeeds` object and ensures it has a URL defined and that the URL is not empty.

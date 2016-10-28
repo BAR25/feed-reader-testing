@@ -4,7 +4,9 @@ This was completed as a project within <a href="https://www.udacity.com/">Udacit
 A web-based application that reads RSS feeds was provided. The original developer had begun to run a couple basic tests, but quit without finishing the app's test suite. The challenge in this project was to practice test-driven development by using [Jasmine](http://jasmine.github.io/) to write tests against the pre-existing application. These test the underlying business logic of the application as well as the event handling and DOM manipulation.
 
 ##How to View This Page
-Go to: https://ksan8.github.io/feed-reader-testing/
+Clone or download this repository and open _jasmine/spec/feedreader.js_ in your browser.
+
+Alternatively, you may view the app on GitHub Pages: https://ksan8.github.io/feed-reader-testing/
 
 # Project Requirements
 

@@ -83,9 +83,9 @@ $(function() {
       loadFeed(0, function() {
         initialFeed = $('.feed .entry');
         loadFeed(1, function() {
+          newFeed = $('.feed .entry');
           done();
         });
-        newFeed = $('.feed .entry');
       });
     });
 

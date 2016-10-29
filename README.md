@@ -1,5 +1,5 @@
 # Feed Reader Testing
-This was completed as a project within <a href="https://www.udacity.com/">Udacity</a>'s <a href="https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001?v=fe1">Front-End Web Developer Nanodegree</a> program
+This was completed as a project within [Udacity](https://www.udacity.com/)'s  [Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001?v=fe1) program
 
 A web-based application that reads RSS feeds was provided. The original developer had begun to run a couple basic tests, but quit without finishing the app's test suite. The challenge in this project was to practice test-driven development by using [Jasmine](http://jasmine.github.io/) to write tests against the pre-existing application. These test the underlying business logic of the application as well as the event handling and DOM manipulation.
 

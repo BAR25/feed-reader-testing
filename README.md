@@ -3,7 +3,9 @@ This was completed as a project within [Udacity](https://www.udacity.com/)'s  [F
 
 A web-based application that reads RSS feeds was provided. The original developer had begun to run a couple basic tests, but quit without finishing the app's test suite. The challenge in this project was to practice test-driven development by using [Jasmine](http://jasmine.github.io/) to write tests against the pre-existing application. These test the underlying business logic of the application as well as the event handling and DOM manipulation.
 
-##How to View This Page
+![Feed Reader screenshot](./feed-reader-screenshot.png)
+
+## How to View This Page
 Clone or download this repository, then open _index.html_ in your browser after starting a simple web server.
 
 The easiest way is to use SimpleHTTPServer if you already have Python installed (it comes pre-installed on most Mac OS X and Linux computers). In a terminal window, cd into the downloaded directory and run the following command:
@@ -14,7 +16,7 @@ After it starts, you can navigate to http://0.0.0.0:8000/index.html in your pref
 
 Alternatively, you may view the app on GitHub Pages: https://ksan8.github.io/feed-reader-testing/
 
-# Project Requirements
+## Project Requirements
 
 Original [Project assets](http://github.com/udacity/frontend-nanodegree-feedreader).
 
@@ -32,8 +34,8 @@ Original [Project assets](http://github.com/udacity/frontend-nanodegree-feedread
 * Implement error handling for undefined variables and out-of-bound array access.
 * When complete - all of your tests should pass.
 
-###Author
+### Author
 Kezia Wineberg
 
-###Contact
+### Contact
 ksan8@protonmail.com
